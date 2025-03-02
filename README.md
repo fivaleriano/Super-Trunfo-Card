@@ -1,4 +1,4 @@
-# 🎮SUPER TRUNFO PAISES
+# 🎮Super Trunfo Países
 - Bem-vindo ao jogo Super Trunfo Países! Este é um jogo de cartas envolvente e educativo, onde você pode aprender e competir com informações fascinantes sobre diferentes países ao redor do mundo.
 
 ## 🎴OBJETIVO DO JOGO
@@ -9,7 +9,7 @@
 
 - Uma rodada começa quando o jogador da vez escolhe um atributo de sua carta para competir.
 
-- Todos revelam o valor do atributo escolhido. Quem tiver o maior valor ganha a rodada.
+- Todos revelam o valor do atributo escolhido. Quem tiver o maior valor ganha a rodada exceto no atributo (Densidade populacional) quem tiver o menor valor vence a rodada.
 
 - Se houver empate, quem vencer a próxima rodada ganha.
 
