@@ -1,10 +1,10 @@
-###🎮SUPER TRUNFO PAISES
+# 🎮SUPER TRUNFO PAISES
 - Bem-vindo ao jogo Super Trunfo Países! Este é um jogo de cartas envolvente e educativo, onde você pode aprender e competir com informações fascinantes sobre diferentes países ao redor do mundo.
 
-##🎴OBJETIVO DO JOGO
+## 🎴OBJETIVO DO JOGO
 - O objetivo do jogo é usar estratégias e conhecimento para vencer todas as cartas dos oponentes. Você irá comparar atributos dos países e tentar superar os de seus oponentes com base nas categorias escolhidas.
 
-##💡REGRAS DO JOGO
+## 💡REGRAS DO JOGO
 - Cada jogador recebe um número igual de cartas.
 
 - Uma rodada começa quando o jogador da vez escolhe um atributo de sua carta para competir.
@@ -15,7 +15,7 @@
 
 - O jogo termina quando um jogador ganha nos atributos escolhidos.
 
-##⚔EXEMPLOS DE ATRIBUTOS 
+## ⚔EXEMPLOS DE ATRIBUTOS 
 - População
 
 - Área (km²)
@@ -26,14 +26,14 @@
 
 - Número de pontos turísticos
 
-##🃏COMO CRIAR SUAS PRÓPRIAS CARTAS 
+## 🃏COMO CRIAR SUAS PRÓPRIAS CARTAS 
 ##Cada carta representa um país e deve incluir:
 
 - Nome do País
 
 - Valores para os atributos escolhidos
 
-##🧩Exemplo de carta:
+## 🧩Exemplo de carta:
 
 - Nome: Brasil
 
@@ -47,5 +47,5 @@
 
 - Número de pontos turísticos
 
-###🎲DIVIRTA-SE!
+# 🎲DIVIRTA-SE!
 - Explore diferentes países, desafie amigos e divirta-se enquanto aperfeiçoamos ainda mais esse código! 🌍
